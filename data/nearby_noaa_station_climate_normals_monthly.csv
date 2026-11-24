@@ -1,0 +1,37 @@
+forest,region,station,station_id,station_lat,station_lon,forest_lat,forest_lon,month_num,month,tmax_f,tmin_f,precip_in,source_url
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,1,Jan,47.9,24.8,6.5,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,2,Feb,52.2,27.2,5.5,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,3,Mar,59.8,33.9,5.1,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,4,Apr,69.4,40.9,6.5,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,5,May,75.2,50.4,5.8,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,6,Jun,82.2,58.6,5.2,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,7,Jul,83.4,62.2,5.8,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,8,Aug,82.4,62.1,7.9,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,9,Sep,77.8,56.7,5.9,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,10,Oct,69.5,43.9,6.5,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,11,Nov,59.1,31.6,5.5,https://climate-charts.com/usa-stations/nc/usc00311055.html
+DuPont State Recreational Forest,Mountains,Brevard,USC00311055,35.2283,-82.7358,35.1903,-82.6025,12,Dec,51.8,29.1,8.3,https://climate-charts.com/usa-stations/nc/usc00311055.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,1,Jan,51.6,32.1,3,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,2,Feb,54.8,33.2,3,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,3,Mar,62.3,40.2,4,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,4,Apr,72.5,49.7,4.2,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,5,May,80.5,58.7,4.8,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,6,Jun,88.3,67,5,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,7,Jul,91,70.9,4.5,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,8,Aug,89.3,69.9,4.8,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,9,Sep,83.1,64,6.1,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,10,Oct,73,52.2,4,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,11,Nov,61.3,40.3,3.8,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,USC00317079,35.7908,-78.6989,35.6741,-78.4893,12,Dec,55.5,36.4,4.5,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,1,Jan,54.4,33.4,2.8,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,2,Feb,57.7,35.3,3.5,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,3,Mar,65.2,41.3,3.2,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,4,Apr,74.8,49.8,3.5,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,5,May,81.5,59.7,4.8,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,6,Jun,88.7,68.1,5,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,7,Jul,91,70.9,4.9,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,8,Aug,89.5,70.5,5.8,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,9,Sep,84.5,64.8,5.4,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,10,Oct,75.2,52.7,3.2,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,11,Nov,64.4,40.7,3.6,https://climate-charts.com/usa-stations/nc/usc00315177.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,USC00315177,34.6269,-79.025,34.688,-78.5951,12,Dec,58.6,37.5,4.3,https://climate-charts.com/usa-stations/nc/usc00315177.html

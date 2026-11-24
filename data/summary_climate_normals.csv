@@ -1,0 +1,4 @@
+forest,region,station,annual_mean_temp_f,annual_precip_in_published,july_avg_high_f,source_url
+DuPont State Recreational Forest,Mountains,Brevard,55.6,75.57,83.4,https://climate-charts.com/usa-stations/nc/usc00311055.html
+Clemmons Educational State Forest,Piedmont,Raleigh State Univ,61.7,49.36,91.0,https://climate-charts.com/usa-stations/nc/usc00317079.html
+Bladen Lakes State Forest,Coastal Plain,Lumberton,63.0,50.83,91.0,https://climate-charts.com/usa-stations/nc/usc00315177.html
