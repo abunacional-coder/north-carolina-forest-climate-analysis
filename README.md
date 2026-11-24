@@ -53,4 +53,3 @@ The scripts save the climate summaries in `data/` and charts in `figures/`. The 
 - [National Weather Service API](https://www.weather.gov/documentation/services-web-api)
 - [North Carolina Forest Service](https://www.ncagr.gov/divisions/nc-forest-service/state-forests)
 
-Some analysis code and documentation were prepared with AI assistance; the scripts were executed and results reviewed by the researcher.
