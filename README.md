@@ -32,6 +32,21 @@ The mountain location is cooler and wetter on average. The 2023–2025 Daymet re
 
 This is an exploratory comparison of representative locations. The historical reference stations are near the forests, Daymet provides gridded estimates, and forecast values come from the National Weather Service.
 
+## Figures
+
+The scripts generate the following figures in the `figures/` folder. To display the images below, run the scripts locally and upload their PNG outputs to that folder on GitHub.
+
+### Regional climate normals (NOAA, 1991–2020)
+![Monthly temperature and precipitation normals for reference stations near three North Carolina state forests](figures/reproduced_monthly_climate.png)
+
+### Daily climate estimates summarized by month (NASA Daymet, 2023–2025)
+![Monthly Daymet temperature and precipitation for three North Carolina state forests](figures/03_daymet_forest_daily_results.png)
+
+### Short-term weather outlook (National Weather Service)
+![NWS short-term forecast temperature and precipitation chance for three North Carolina state forests](figures/04_nws_7day_forecast.png)
+
+**Note:** NWS forecasts are time-sensitive snapshots, not historical observations. The forecast figure should be labeled with the date when it was generated.
+
 ## Run the analysis
 
 Install Python, then open a terminal in the project folder:
